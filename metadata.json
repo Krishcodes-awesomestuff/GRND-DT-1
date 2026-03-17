@@ -1,0 +1,5 @@
+{
+  "name": "GRND - Premium Sports Engagement",
+  "description": "A premium sports engagement platform with a high-performance aesthetic.",
+  "requestFramePermissions": ["geolocation"]
+}
